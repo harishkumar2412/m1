@@ -1,4 +1,4 @@
 @Library("com.i27academy.slb@main") _
 firstpipeline{
-  appName = 'shipping'
+  appName : 'shipping'
 }
